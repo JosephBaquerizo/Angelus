@@ -1,0 +1,25 @@
+.inicioContainer {
+    margin-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagenL {
+    margin-top: 3rem;
+    height: 700px;
+    width: 60%;
+}
+
+.imgPar {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.imagenS {
+    height: 500px;
+    width: 48%;
+}
